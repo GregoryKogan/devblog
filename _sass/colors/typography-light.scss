@@ -4,7 +4,7 @@
 
 @mixin light-scheme {
   /* Framework color */
-  --main-bg: white;
+  --main-bg: #;
   --mask-bg: #c1c3c5;
   --main-border-color: #f3f3f3;
 
@@ -38,12 +38,12 @@
   );
 
   /* Sidebar */
-  --site-title-color: rgb(113, 113, 113);
-  --site-subtitle-color: #717171;
+  --site-title-color: #343b58;
+  --site-subtitle-color: #565a6e;
   --sidebar-bg: #f6f8fa;
   --sidebar-border-color: #efefef;
-  --sidebar-muted-color: #545454;
-  --sidebar-active-color: #1d1d1d;
+  --sidebar-muted-color: #565a6e;
+  --sidebar-active-color: #0f0f14;
   --sidebar-hover-bg: rgb(223, 233, 241, 0.64);
   --sidebar-btn-bg: white;
   --sidebar-btn-color: #8e8e8e;

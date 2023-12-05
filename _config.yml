@@ -14,7 +14,7 @@ timezone: Europe/Moscow
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
 
-title: GregoryKogan # the main title
+title: GregoryKogan's devblog # the main title
 
 tagline:
   Bachelor of the Institute of Intelligent Cybernetic Systems, National Research Nuclear University MEPhI.
