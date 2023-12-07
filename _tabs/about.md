@@ -4,16 +4,13 @@ icon: fas fa-info-circle
 order: 4
 ---
 
-I am a bachelor student of the Institute of Intelligent Cybernetic Systems, National Research Nuclear University MEPhI. My major is Software Engineering. I am interested in vast variety of topics. This blog is a place where I share my thoughts, ideas and projects.
+I am a bachelor student of the Institute of Intelligent Cybernetic Systems, National Research Nuclear University MEPhI. My major is Software Engineering. I am interested in a vast variety of topics. This blog is a place where I share my thoughts, ideas, and projects. Feel free to explore and engage with the content!
 
-![Most used languages](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=GregoryKogan&langs_count=7&bg_color=24283b&title_color=c0caf5&text_color=c0caf5&border_color=7aa2f7&size_weight=1.0&count_weight=0.0&exclude_repo=dotfiles&layout=donut){: .normal .dark }
+![Mnemonic images](/yMHV2fjN.gif)
+_This is a mnemonic image generated using my [mnemonic image generator](https://github.com/GregoryKogan/mnemonic-pictures)_
+
+![Most used languages](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=GregoryKogan&langs_count=7&bg_color=24283b&title_color=c0caf5&text_color=c0caf5&border_color=7aa2f7&size_weight=1.0&count_weight=0.0&exclude_repo=dotfiles,devblog&layout=donut){: .normal .dark }
 ![Github stats](https://github-readme-stats.vercel.app/api?username=GregoryKogan&show_icons=true&bg_color=24283b&title_color=c0caf5&text_color=c0caf5&border_color=7aa2f7&icon_color=bb9af7&ring_color=9ece6a&hide_rank=true&line_height=39){: .normal .dark }
 
-![Most used languages](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=GregoryKogan&langs_count=7&bg_color=ffffff&title_color=343b58&text_color=343b58&border_color=343b58&size_weight=1.0&count_weight=0.0&exclude_repo=dotfiles&layout=donut){: .normal .light }
+![Most used languages](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=GregoryKogan&langs_count=7&bg_color=ffffff&title_color=343b58&text_color=343b58&border_color=343b58&size_weight=1.0&count_weight=0.0&exclude_repo=dotfiles,devblog&layout=donut){: .normal .light }
 ![Github stats](https://github-readme-stats.vercel.app/api?username=GregoryKogan&show_icons=true&bg_color=ffffff&title_color=343b58&text_color=343b58&border_color=343b58&icon_color=5a4a78&ring_color=9ece6a&hide_rank=true&line_height=39){: .normal .light }
-
-![Optical flow](/rmR3Fx26/flow.gif)
-_This is an optical flow computed using my [video frame interpolation project](https://github.com/GregoryKogan/algo-vfi)_
-
-![Mnemonic images](/d13NNdVk/mnemonic2.gif)
-_This is a mnemonic image generated using my [mnemonic image generator](https://github.com/GregoryKogan/mnemonic-pictures)_
