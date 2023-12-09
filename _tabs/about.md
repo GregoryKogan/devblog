@@ -6,7 +6,7 @@ order: 4
 
 I am a bachelor student of the Institute of Intelligent Cybernetic Systems, National Research Nuclear University MEPhI. My major is Software Engineering. I am interested in a vast variety of topics. This blog is a place where I share my thoughts, ideas, and projects. Feel free to explore and engage with the content!
 
-![Mnemonic images](/yMHV2fjN.gif)
+![Mnemonic images](/2023/12/b7623dcc609e5ba58baf269ffa33385a.gif)
 _This is a mnemonic image generated using my [mnemonic image generator](https://github.com/GregoryKogan/mnemonic-pictures)_
 
 ![Most used languages](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=GregoryKogan&langs_count=7&bg_color=24283b&title_color=c0caf5&text_color=c0caf5&border_color=7aa2f7&size_weight=1.0&count_weight=0.0&exclude_repo=dotfiles,devblog&layout=donut){: .normal .dark }

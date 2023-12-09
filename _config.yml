@@ -72,10 +72,10 @@ theme_mode: # [light|dark]
 # will be added to all image (site avatar & posts' images) paths starting with '/'
 #
 # e.g. 'https://cdn.com'
-img_cdn: https://thumbsnap.com/s
+img_cdn: https://s1.hostingkartinok.com/uploads/images
 
 # the avatar on sidebar, support local or CORS resources
-avatar: /MQ8Uypw2.jpg
+avatar: /2023/12/edd3bfc46673987f863bd8a32c8cfb7f.jpg
 
 # boolean type, the global switch for TOC in posts.
 toc: true
